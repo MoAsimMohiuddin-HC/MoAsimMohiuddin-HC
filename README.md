@@ -1,7 +1,7 @@
 # About Me
 - 👋 Hi, I’m Asim Mohiuddin
 - 👀 I’m interested in Full Stack Web Development and Data Structures and Algorithms
-- 🌱 I’m currently learning JEST Testing with MERN Stack, Spring Boot
+- 🌱 I’m currently learning MERN Stack, Testing with JEST, Spring Boot
 - 💞️ I’m looking to collaborate on MERN Stack and Spring Boot Projects
 - 📫 Reach me at asim.mohiuddin@humancloud.co.in
 
